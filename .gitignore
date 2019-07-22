@@ -1,0 +1,11 @@
+
+# Intellij
+######################
+.jdbcdemo.iml
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+target/
+.idea/
